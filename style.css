@@ -1,0 +1,72 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+
+.fs_1 {
+  font-size: 52px;
+  line-height: 59px;
+}
+
+.fs-7 {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.fs-8 {
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.gray {
+  color: #666;
+}
+
+.white {
+  color: #fff;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.fs-9 {
+  font-size: 1.125rem;
+  line-height: 24px;
+}
+
+.bg-gray {
+  background: #222;
+}
+
+.c-gray {
+  color: #222;
+}
+
+.c-skyblue {
+  color: #0278ED;
+}
+
+.bg-skyblue {
+  background: #0278ED;
+}
+
+.c-yellow {
+  color: #FF9209;
+}
+
+.bg-yellow {
+  background: #FF9209;
+}
+
+.bg-red {
+  background-color: #FF5437;
+}
+
+.c-red {
+  color: #FF5437;
+}
+
+.letter-2 {
+  letter-spacing: 2px;
+}
